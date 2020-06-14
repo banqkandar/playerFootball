@@ -1,0 +1,54 @@
+{
+  "players": [
+    {
+      "nama": "Thibaut Courtois",
+      "foto": "curtois1.jpg,curtois2.jpg,curtois3.jpg",
+      "posisi": "Position\nGoalkeeper."
+    },
+    {
+      "nama": "Sergio Ramos García",
+      "foto": "ramos1.jpg,ramos2.jpg,ramos3.jpg",
+      "posisi": "Position\nDefender."
+    },
+    {
+      "nama": "Raphaël Varane",
+      "foto": "varane1.jpg,varane2.jpg,varane3.jpg",
+      "posisi": "Position\nDefender."
+    },
+    {
+      "nama": "Marcelo Vieira da Silva",
+      "foto": "marcelo1.jpg,marcelo2.jpg,marcelo3.jpg",
+      "posisi": "Position\nDefender."
+    },
+    {
+      "nama": "Toni Kroos",
+      "foto": "kross1.jpg,kross2.jpg,kross3.jpg",
+      "posisi": "Position\nMidfielder."
+    },
+    {
+      "nama": "Luka Modric",
+      "foto": "modrik1.jpg,modrik2.jpg,modrik3.jpg",
+      "posisi": "Position\nMidfielder."
+    },
+    {
+      "nama": "Gareth Bale",
+      "foto": "bale1.jpg,bale2.jpg,bale3.jpg",
+      "posisi": "Position\nForward."
+    },
+    {
+      "nama": "Marco Asensio Willemsen",
+      "foto": "asensio.jpg,asensio2.jpg,asensi3.jpg",
+      "posisi": "Position\nForward."
+    },
+    {
+      "nama": "Eden Hazard",
+      "foto": "eden1.jpg,eden2.jpg,eden3.jpg",
+      "posisi": "Position\nForward"
+    },
+    {
+      "nama": "Karim Benzema",
+      "foto": "benzema1.jpg,benzema2.jpg,benzema3.jpeg",
+      "posisi": "Position\nForward"
+    }
+  ]
+}

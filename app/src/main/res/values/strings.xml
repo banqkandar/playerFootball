@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Top Players</string>
+    <string name="judul_list">Players in Real Madrid</string>
+    <string name="tentang">About</string>
+
+    <string name="nama_pemain">Hazard</string>
+    <string name="klub">Real Madrid</string>
+    <string name="count_list">10 Top Players</string>
+
+    <string name="nama_saya">Mohammad\nIskandar</string>
+    <string name="umur_saya">21 Years</string>
+    <string name="alamat_saya">Bandung, 27-11-1998</string>
+    <string name="email_saya">misimatupang@gmail.com</string>
+    <string name="sosmed_saya">Instagram @bangkandar</string>
+    <string name="github_saya">Github /bgkandar</string>
+
+</resources>
